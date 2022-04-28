@@ -6,6 +6,10 @@
 
 Задания для выполнения
 
+Что такое параллакс-эффект?
+
+Параллакс — это зрительная разница в расстоянии между объектами на переднем и заднем плане. Благодаря этому эффекту мы видим предметы в объеме, воспринимаем глубину и понимаем, что находится ближе, а что дальше. 
+
 ![0oT_-p30ZHnS1Rx1R-d1J0t6riT5ESe6VpX3QMK4rufbuSB3aNR36o4FiM3xFunFwu3soLxbCa_K0FKLQBQMtFRn](https://user-images.githubusercontent.com/70980145/165860487-e8b5bc45-8ff3-44ec-82e4-18ca377d0249.jpg)
 
 ![ahwlCY9sedIa-DPD63BEvP4cNrpWHRc-_8Oe3BT9uRVG5xvkbxXoetnwz9r6z6iar3CQyihvJZq7VhkiM5YV5t2Z](https://user-images.githubusercontent.com/70980145/165860493-137cd0df-3ef8-4b26-841d-30be43c95422.jpg)
